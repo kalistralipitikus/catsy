@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<body>
+<main>
+    <h1> Website ni tarantado.com</h1>
+    <h2>by: Kalistralipitikus</h2>
+
+    <h2></h2>
+
+    <h2>CatPhotoApp</h2>
+    <section>
+        <h3> Cat Photos </h3>
+    <p>Everyone loves <a target="_blank" href="https://www.perfektdamen.co/contents/videos_screenshots/443000/443248/960x540/1.jpg">cute cats</a> online!</p>
+
+    <p> See more <a target="_blank" href="https://i.ytimg.com/vi/SQJrYw1QvSQ/maxresdefault.jpg">cat photos</a> in our gallery</p>
+    <img src="https://soranews24.com/wp-content/uploads/sites/3/2019/12/op-2.jpg?w=640" alt="Luffy in cat form">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/065/907/149/large/murasaki-342733460-954111489106523-8996796479001032329-n.jpg?1691529783" alt="luffy in cat form">
+</section>
+
+    <section>
+        <h2> Cats Lists </h2>
+        <h3>3 things cats love:</h3>
+        <ul>
+            <li>catnip</li>
+            <li>laser pointer</li>
+             <li>lasagna</li>
+          </ul>
+          <figure>
+<img src="https://www.shutterstock.com/image-photo/lasagna-basil-fresh-salad-260nw-2516476157.jpg" alt="lasagna">
+
+        <p>cats <em>love</em> lasagna</p>
+        </figure>
+
+        <section>
+            <h2>3 things cats hate:</h2>
+            <ol>
+                <li>flea treatment</li>
+                 <li>thunder</li>
+                 <li>other cats</li>
+            </ol>
+            <figure>
+                <img src="https://i.pinimg.com/736x/c2/06/1a/c2061abe57b919056914f2b5363a7408.jpg" alt="many cat memes">
+                <figcaption>cats <strong>hate</strong> other cats</figcaption>
+
+            </figure>
+        </section>
+
+
+<h1> if you decide to watch funny cat videos <a href="https://www.pornhub.com/"> <strong>click here </strong></a></h1>
+
+
+        </section>
+
+</main>
+</body>
+</html>
